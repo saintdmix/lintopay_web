@@ -374,8 +374,7 @@ To exercise these rights, please contact us using the information provided below
                 '''If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
 Email: privacy@lintopay.com
-Address: [Your Business Address]
-Phone: [Your Contact Number]
+Phone: 07060995761
 
 For account deletion requests, please visit our Account Deletion page or email us at: support@lintopay.com''',
               ),
